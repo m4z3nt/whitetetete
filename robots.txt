@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://usinvest.us/sitemap.xml
